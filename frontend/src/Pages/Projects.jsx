@@ -1,6 +1,6 @@
 import React from 'react'
-import left from "../assets/left.png";
-import right from "../assets/right.png";
+import left from "../assets/Left.png";
+import right from "../assets/Right.png";
 import cyber from "../assets/cyber.png";
 import img from "../assets/web.png";
 
